@@ -1,0 +1,29 @@
+{
+  "name": "ClasesEnES6",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000c\u0000l\u0000a\u0000s\u0000e\u0000s\u0000-\u0000e\u0000n\u0000-\u0000E\u0000S\u00006\u0000\r\u0000 \u0000",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/frank22leon/clases-en-ES6.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/frank22leon/clases-en-ES6/issues"
+  },
+  "homepage": "https://github.com/frank22leon/clases-en-ES6#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.14.8",
+    "@babel/core": "^7.14.8",
+    "@babel/polyfill": "^7.12.1",
+    "@babel/preset-env": "^7.14.8"
+  },
+  "dependencies": {
+    "core-js": "^3.16.0"
+  }
+}
